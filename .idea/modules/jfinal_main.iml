@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="jfinal:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="org.jfinal.jfinal" external.system.module.type="sourceSet" external.system.module.version="2.2.3" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-ajp:8.1.8.v20121106" level="project" />
+    <orderEntry type="library" name="Gradle: standard:standard:standard" level="project" />
+    <orderEntry type="library" name="Gradle: com.alibaba:fastjson:1.2.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.5.3" level="project" />
+    <orderEntry type="library" name="Gradle: redis.clients:jedis:2.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: objenesis:objenesis:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: de.ruedigermoeller:fst:2.29" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.19.0-GA" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.14" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.ehcache:ehcache:2.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: c3p0:mchange-commons-java:0.2.10" level="project" />
+    <orderEntry type="library" name="Gradle: c3p0:c3p0:0.9.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.37" level="project" />
+    <orderEntry type="library" name="Gradle: org.freemarker:freemarker:2.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: velocity:velocity:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: velocity:velocity_dept:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Gradle: cos:cos:26Dec2008" level="project" />
+    <orderEntry type="library" name="Gradle: org.web.s:servlet-api:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.web:jsp-api:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.alibaba:druid:1.0.16" level="project" />
+    <orderEntry type="library" name="Gradle: cglib:cglib-nodep:3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:8.1.8.v20121106" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-pool2:2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-continuation:8.1.8.v20121106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:8.1.8.v20121106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:8.1.8.v20121106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:8.1.8.v20121106" level="project" />
+  </component>
+</module>
