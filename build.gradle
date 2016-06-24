@@ -1,5 +1,5 @@
 group 'org.jfinal.jfinal'
-version '2.2.3'
+version '2.2.5'
 
 apply plugin: 'java'
 
@@ -11,5 +11,6 @@ repositories {
     }
 }
 dependencies {
+    compile group: 'org.mongodb', name: 'mongo-java-driver', version: '3.2.2'
     compile 'org.eclipse.jetty:jetty-ajp:8.1.8.v20121106', 'standard:standard:standard', 'com.alibaba:fastjson:1.2.7', 'com.fasterxml.jackson.core:jackson-annotations:2.4.0', 'com.fasterxml.jackson.core:jackson-databind:2.4.3', 'com.fasterxml.jackson.core:jackson-core:2.5.3', 'redis.clients:jedis:2.7.2', 'objenesis:objenesis:2.1', 'de.ruedigermoeller:fst:2.29', 'org.javassist:javassist:3.19.0-GA', 'org.slf4j:slf4j-log4j12:1.6.1', 'org.slf4j:slf4j-api:1.7.14', 'net.sf.ehcache:ehcache:2.10.1', 'c3p0:mchange-commons-java:0.2.10', 'c3p0:c3p0:0.9.5.1', 'mysql:mysql-connector-java:5.1.37', 'org.freemarker:freemarker:2.3.20', 'velocity:velocity:1.7', 'velocity:velocity_dept:1.7', 'log4j:log4j:1.2.17', 'cos:cos:26Dec2008', 'org.web.s:servlet-api:1.0', 'org.web:jsp-api:1.0', 'com.alibaba:druid:1.0.16', 'cglib:cglib-nodep:3.1'
 }

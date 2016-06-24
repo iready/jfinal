@@ -10,6 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="jfinal_main" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongo-java-driver:3.2.2" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-ajp:8.1.8.v20121106" level="project" />
     <orderEntry type="library" name="Gradle: standard:standard:standard" level="project" />
     <orderEntry type="library" name="Gradle: com.alibaba:fastjson:1.2.7" level="project" />
