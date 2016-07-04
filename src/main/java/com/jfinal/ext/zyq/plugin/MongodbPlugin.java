@@ -16,6 +16,9 @@
 package com.jfinal.ext.zyq.plugin;
 
 import com.jfinal.plugin.IPlugin;
+import com.jfinal.plugin.activerecord.ActiveRecordPlugin;
+import com.jfinal.plugin.activerecord.Model;
+import com.jfinal.plugin.activerecord.Table;
 import com.mongodb.MongoClient;
 
 //import com.jfinal.log.Logger;
@@ -50,6 +53,7 @@ public class MongodbPlugin implements IPlugin {
         MongoKit.init(client, database);
         return true;
     }
+
 
     @Override
     public boolean stop() {

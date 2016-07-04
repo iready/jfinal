@@ -134,6 +134,7 @@ public class MongoKit {
     }
 
     private static void buildFilter(Map<String, Object> filter, BasicDBObject conditons) {
+
         if (filter != null) {
             Set<Entry<String, Object>> entrySet = filter.entrySet();
             for (Entry<String, Object> entry : entrySet) {
